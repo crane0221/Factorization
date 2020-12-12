@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\解題\解碼器\解碼器\bin\Debug\解碼器.exe.config
+C:\Users\user\Desktop\解題\解碼器\解碼器\bin\Debug\解碼器.exe
+C:\Users\user\Desktop\解題\解碼器\解碼器\bin\Debug\解碼器.pdb
+C:\Users\user\Desktop\解題\解碼器\解碼器\obj\Debug\解碼器.csprojAssemblyReference.cache
+C:\Users\user\Desktop\解題\解碼器\解碼器\obj\Debug\解碼器.Form1.resources
+C:\Users\user\Desktop\解題\解碼器\解碼器\obj\Debug\解碼器.Properties.Resources.resources
+C:\Users\user\Desktop\解題\解碼器\解碼器\obj\Debug\解碼器.csproj.GenerateResource.cache
+C:\Users\user\Desktop\解題\解碼器\解碼器\obj\Debug\解碼器.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\解題\解碼器\解碼器\obj\Debug\解碼器.exe
+C:\Users\user\Desktop\解題\解碼器\解碼器\obj\Debug\解碼器.pdb
